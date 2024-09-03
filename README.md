@@ -1,1 +1,1 @@
-## Projeto jeito com javascript para uma vaga de estágio
+## Projeto feito com javascript para uma vaga de estágio
